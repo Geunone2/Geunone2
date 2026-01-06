@@ -33,16 +33,6 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=geunone2&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geunone2&layout=compact&theme=radical" alt="top langs" />
-
-</div>
-
-
 ## 📬 Contact
 
 <a href="mailto:rmsdnjsaos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
